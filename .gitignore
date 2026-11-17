@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+uploads/*
+outputs/*
+!uploads/.gitkeep
+!outputs/.gitkeep
+__pycache__/
+.venv/
+*.log
+worker/cookies.txt
+**/cookies.txt
+.venv/
